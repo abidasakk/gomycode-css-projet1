@@ -1,0 +1,133 @@
+
+header{
+	background-color:black;
+}
+
+
+
+main{
+	background-color: black;
+	height: 4000px;
+	background-image:url("fond.jpg");
+	background-repeat: no-repeat;
+	
+}
+
+footer{
+	background-color:red;
+	height: 100px;
+	font-size: 70px;
+	text-align: center;
+	color: white;
+	word-spacing:20px;
+	border: 3px solid white;
+}
+
+input{
+background-color:white;
+width: 190px;
+height: 40px;
+}
+textarea{
+	background-color:white;
+	width: 190px;
+	height: 40px;
+	}
+.acceuil{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size:80px;
+	color:white;
+}
+.acceuil:hover{
+	font-size:80px;
+	color:yellow;
+	background-color: yellow;
+	font-size:100px; 
+	color:black;
+}
+
+
+
+.apropos{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size:80px;
+	color:white;
+}
+.apropos:hover{
+	font-size:80px;
+	color:yellow;
+	background-color:white;
+	font-size:100px;
+	color:black;
+}
+
+
+
+.travail{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size:80px;
+	color:white;
+}
+.travail:hover{
+	font-size:80px;
+	color:yellow;
+	background-color:yellow;
+	font-size:100px;
+	color:black;
+}
+
+
+
+.cv{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size:80px;
+	color:white;
+}
+.cv:hover{
+	font-size:80px;
+	color:yellow;
+	background-color:yellow;
+	font-size:100px;
+	color:black;
+}
+
+
+.contact{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size:80px;
+	color:white;
+}
+.contact:hover{
+	font-size:80px;
+	color:yellow;
+	background-color:yellow;
+	font-size:100px;
+	color:black;
+}
+
+
+nav{
+  text-align: center;
+  word-spacing:100px;
+  border: 3px solid white;
+}
+
+h1{
+	text-align: center;
+	word-spacing:20px;
+	border: 3px solid white;
+  }
+.op{
+
+	position: absolute;
+	right:1200px;
+	bottom: -200px; ;
+	border: 4px solid white;
+
+  }
+.photo{
+
+	position: absolute;
+	right:1050px;
+
+  }
